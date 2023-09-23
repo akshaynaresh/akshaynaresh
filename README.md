@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> My name is Akshay Dwivedi, I'm a Frontend Developer and Competitve Programmer.</h1>
+<h1> My name is Akshay Dwivedi.</h1>
+<h2>I'm a Frontend Developer and Competitve Programmer.</h2>
