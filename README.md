@@ -5,6 +5,8 @@
 > "If it works, don't touch it" - 1<sup>st</sup> rule of programming
 ---
 
+![cmatrix](cmatrix.gif)
+
 Just a guy who loves **football** and **technology**.
 
 Fun Facts 
